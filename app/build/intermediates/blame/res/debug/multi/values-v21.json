@@ -1,36 +1,17 @@
 [
     {
-        "outputFile": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "outputFile": "I:\\MessManager\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 68,
-                    "endOffset": 119
-                },
-                "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 223,
-                        "endColumn": 68,
-                        "endOffset": 287
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 124,
                     "endColumn": 90,
-                    "endOffset": 210
+                    "endOffset": 141
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -42,14 +23,14 @@
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 215,
+                    "startOffset": 146,
                     "endColumn": 102,
-                    "endOffset": 313
+                    "endOffset": 244
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -61,14 +42,14 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 318,
+                    "startOffset": 249,
                     "endColumn": 102,
-                    "endOffset": 416
+                    "endOffset": 347
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -80,14 +61,14 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 421,
+                    "startOffset": 352,
                     "endColumn": 104,
-                    "endOffset": 521
+                    "endOffset": 452
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -99,14 +80,14 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 526,
+                    "startOffset": 457,
                     "endColumn": 106,
-                    "endOffset": 628
+                    "endOffset": 559
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -118,14 +99,14 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 633,
+                    "startOffset": 564,
                     "endColumn": 108,
-                    "endOffset": 737
+                    "endOffset": 668
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -137,14 +118,14 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 742,
+                    "startOffset": 673,
                     "endColumn": 108,
-                    "endOffset": 846
+                    "endOffset": 777
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -156,14 +137,14 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 851,
+                    "startOffset": 782,
                     "endColumn": 108,
-                    "endOffset": 955
+                    "endOffset": 886
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -175,14 +156,14 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 960,
+                    "startOffset": 891,
                     "endColumn": 108,
-                    "endOffset": 1064
+                    "endOffset": 995
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -194,14 +175,14 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1069,
+                    "startOffset": 1000,
                     "endColumn": 108,
-                    "endOffset": 1173
+                    "endOffset": 1104
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -213,14 +194,14 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1178,
+                    "startOffset": 1109,
                     "endColumn": 106,
-                    "endOffset": 1280
+                    "endOffset": 1211
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -232,14 +213,14 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1285,
+                    "startOffset": 1216,
                     "endColumn": 102,
-                    "endOffset": 1383
+                    "endOffset": 1314
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -251,14 +232,14 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1388,
+                    "startOffset": 1319,
                     "endColumn": 118,
-                    "endOffset": 1502
+                    "endOffset": 1433
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -270,15 +251,15 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1507,
-                    "endLine": 17,
+                    "startOffset": 1438,
+                    "endLine": 16,
                     "endColumn": 12,
-                    "endOffset": 1657
+                    "endOffset": 1588
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -291,15 +272,15 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1662,
-                    "endLine": 19,
+                    "startOffset": 1593,
+                    "endLine": 18,
                     "endColumn": 12,
-                    "endOffset": 1812
+                    "endOffset": 1743
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -312,14 +293,14 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1817,
+                    "startOffset": 1748,
                     "endColumn": 104,
-                    "endOffset": 1917
+                    "endOffset": 1848
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -331,14 +312,14 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1922,
+                    "startOffset": 1853,
                     "endColumn": 120,
-                    "endOffset": 2038
+                    "endOffset": 1969
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -350,14 +331,14 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2043,
+                    "startOffset": 1974,
                     "endColumn": 100,
-                    "endOffset": 2139
+                    "endOffset": 2070
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -369,15 +350,15 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2144,
-                    "endLine": 24,
+                    "startOffset": 2075,
+                    "endLine": 23,
                     "endColumn": 12,
-                    "endOffset": 2286
+                    "endOffset": 2217
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -390,15 +371,15 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2291,
-                    "endLine": 26,
+                    "startOffset": 2222,
+                    "endLine": 25,
                     "endColumn": 12,
-                    "endOffset": 2427
+                    "endOffset": 2358
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -411,14 +392,14 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2432,
+                    "startOffset": 2363,
                     "endColumn": 102,
-                    "endOffset": 2530
+                    "endOffset": 2461
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -430,14 +411,14 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2535,
+                    "startOffset": 2466,
                     "endColumn": 118,
-                    "endOffset": 2649
+                    "endOffset": 2580
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -449,14 +430,14 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2654,
+                    "startOffset": 2585,
                     "endColumn": 106,
-                    "endOffset": 2756
+                    "endOffset": 2687
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -468,14 +449,14 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2761,
+                    "startOffset": 2692,
                     "endColumn": 102,
-                    "endOffset": 2859
+                    "endOffset": 2790
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -487,15 +468,15 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2864,
-                    "endLine": 32,
+                    "startOffset": 2795,
+                    "endLine": 31,
                     "endColumn": 12,
-                    "endOffset": 3006
+                    "endOffset": 2937
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -508,15 +489,15 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3011,
-                    "endLine": 34,
+                    "startOffset": 2942,
+                    "endLine": 33,
                     "endColumn": 12,
-                    "endOffset": 3161
+                    "endOffset": 3092
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -529,15 +510,15 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 3166,
-                    "endLine": 36,
+                    "startOffset": 3097,
+                    "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 3332
+                    "endOffset": 3263
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -550,15 +531,15 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 3337,
-                    "endLine": 38,
+                    "startOffset": 3268,
+                    "endLine": 37,
                     "endColumn": 12,
-                    "endOffset": 3481
+                    "endOffset": 3412
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -571,15 +552,15 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 3486,
-                    "endLine": 40,
+                    "startOffset": 3417,
+                    "endLine": 39,
                     "endColumn": 12,
-                    "endOffset": 3646
+                    "endOffset": 3577
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -592,15 +573,15 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3651,
-                    "endLine": 42,
+                    "startOffset": 3582,
+                    "endLine": 41,
                     "endColumn": 12,
-                    "endOffset": 3803
+                    "endOffset": 3734
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -613,15 +594,15 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3808,
-                    "endLine": 44,
+                    "startOffset": 3739,
+                    "endLine": 43,
                     "endColumn": 12,
-                    "endOffset": 3954
+                    "endOffset": 3885
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -634,14 +615,14 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3959,
+                    "startOffset": 3890,
                     "endColumn": 118,
-                    "endOffset": 4073
+                    "endOffset": 4004
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -653,15 +634,15 @@
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 4078,
-                    "endLine": 47,
+                    "startOffset": 4009,
+                    "endLine": 46,
                     "endColumn": 12,
-                    "endOffset": 4222
+                    "endOffset": 4153
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -674,15 +655,15 @@
             },
             {
                 "to": {
-                    "startLine": 48,
+                    "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 4227,
-                    "endLine": 49,
+                    "startOffset": 4158,
+                    "endLine": 48,
                     "endColumn": 12,
-                    "endOffset": 4371
+                    "endOffset": 4302
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -695,14 +676,14 @@
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 4376,
+                    "startOffset": 4307,
                     "endColumn": 111,
-                    "endOffset": 4483
+                    "endOffset": 4414
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -714,14 +695,14 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 4488,
+                    "startOffset": 4419,
                     "endColumn": 146,
-                    "endOffset": 4630
+                    "endOffset": 4561
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 4,
@@ -733,15 +714,15 @@
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 4635,
-                    "endLine": 53,
+                    "startOffset": 4566,
+                    "endLine": 52,
                     "endColumn": 12,
-                    "endOffset": 4783
+                    "endOffset": 4714
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,
@@ -754,15 +735,15 @@
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 4788,
-                    "endLine": 55,
+                    "startOffset": 4719,
+                    "endLine": 54,
                     "endColumn": 12,
-                    "endOffset": 4930
+                    "endOffset": 4861
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
@@ -775,14 +756,14 @@
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 4935,
+                    "startOffset": 4866,
                     "endColumn": 74,
-                    "endOffset": 5005
+                    "endOffset": 4936
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
@@ -794,14 +775,14 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 5010,
+                    "startOffset": 4941,
                     "endColumn": 88,
-                    "endOffset": 5094
+                    "endOffset": 5025
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
@@ -813,14 +794,14 @@
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 5099,
+                    "startOffset": 5030,
                     "endColumn": 86,
-                    "endOffset": 5181
+                    "endOffset": 5112
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
@@ -832,14 +813,14 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 5186,
+                    "startOffset": 5117,
                     "endColumn": 100,
-                    "endOffset": 5282
+                    "endOffset": 5213
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 4,
@@ -851,15 +832,15 @@
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 5287,
-                    "endLine": 103,
+                    "startOffset": 5218,
+                    "endLine": 102,
                     "endColumn": 12,
-                    "endOffset": 8350
+                    "endOffset": 8281
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 4,
@@ -872,15 +853,15 @@
             },
             {
                 "to": {
-                    "startLine": 104,
+                    "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 8355,
-                    "endLine": 106,
+                    "startOffset": 8286,
+                    "endLine": 105,
                     "endColumn": 12,
-                    "endOffset": 8536
+                    "endOffset": 8467
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 125,
                         "startColumn": 4,
@@ -893,15 +874,15 @@
             },
             {
                 "to": {
-                    "startLine": 107,
+                    "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 8541,
-                    "endLine": 150,
+                    "startOffset": 8472,
+                    "endLine": 149,
                     "endColumn": 12,
-                    "endOffset": 11616
+                    "endOffset": 11547
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 128,
                         "startColumn": 4,
@@ -914,15 +895,15 @@
             },
             {
                 "to": {
-                    "startLine": 151,
+                    "startLine": 150,
                     "startColumn": 4,
-                    "startOffset": 11621,
-                    "endLine": 153,
+                    "startOffset": 11552,
+                    "endLine": 152,
                     "endColumn": 12,
-                    "endOffset": 11814
+                    "endOffset": 11745
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 172,
                         "startColumn": 4,
@@ -935,15 +916,15 @@
             },
             {
                 "to": {
-                    "startLine": 154,
+                    "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 11819,
-                    "endLine": 155,
+                    "startOffset": 11750,
+                    "endLine": 154,
                     "endColumn": 12,
-                    "endOffset": 11937
+                    "endOffset": 11868
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
@@ -956,15 +937,15 @@
             },
             {
                 "to": {
-                    "startLine": 156,
+                    "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 11942,
-                    "endLine": 157,
+                    "startOffset": 11873,
+                    "endLine": 156,
                     "endColumn": 12,
-                    "endOffset": 12060
+                    "endOffset": 11991
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -977,15 +958,15 @@
             },
             {
                 "to": {
-                    "startLine": 158,
+                    "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 12065,
-                    "endLine": 159,
+                    "startOffset": 11996,
+                    "endLine": 158,
                     "endColumn": 12,
-                    "endOffset": 12173
+                    "endOffset": 12104
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -998,15 +979,15 @@
             },
             {
                 "to": {
-                    "startLine": 160,
+                    "startLine": 159,
                     "startColumn": 4,
-                    "startOffset": 12178,
-                    "endLine": 162,
+                    "startOffset": 12109,
+                    "endLine": 161,
                     "endColumn": 12,
-                    "endOffset": 12356
+                    "endOffset": 12287
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1019,15 +1000,15 @@
             },
             {
                 "to": {
-                    "startLine": 163,
+                    "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 12361,
-                    "endLine": 164,
+                    "startOffset": 12292,
+                    "endLine": 163,
                     "endColumn": 12,
-                    "endOffset": 12487
+                    "endOffset": 12418
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 186,
                         "startColumn": 4,
@@ -1040,15 +1021,15 @@
             },
             {
                 "to": {
-                    "startLine": 165,
+                    "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 12492,
-                    "endLine": 167,
+                    "startOffset": 12423,
+                    "endLine": 166,
                     "endColumn": 12,
-                    "endOffset": 12688
+                    "endOffset": 12619
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -1061,14 +1042,14 @@
             },
             {
                 "to": {
-                    "startLine": 168,
+                    "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 12693,
+                    "startOffset": 12624,
                     "endColumn": 88,
-                    "endOffset": 12777
+                    "endOffset": 12708
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -1080,14 +1061,14 @@
             },
             {
                 "to": {
-                    "startLine": 169,
+                    "startLine": 168,
                     "startColumn": 4,
-                    "startOffset": 12782,
+                    "startOffset": 12713,
                     "endColumn": 110,
-                    "endOffset": 12888
+                    "endOffset": 12819
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1099,14 +1080,14 @@
             },
             {
                 "to": {
-                    "startLine": 170,
+                    "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 12893,
+                    "startOffset": 12824,
                     "endColumn": 126,
-                    "endOffset": 13015
+                    "endOffset": 12946
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 193,
                         "startColumn": 4,
@@ -1118,14 +1099,14 @@
             },
             {
                 "to": {
-                    "startLine": 171,
+                    "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 13020,
+                    "startOffset": 12951,
                     "endColumn": 100,
-                    "endOffset": 13116
+                    "endOffset": 13047
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1137,14 +1118,14 @@
             },
             {
                 "to": {
-                    "startLine": 172,
+                    "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 13121,
+                    "startOffset": 13052,
                     "endColumn": 94,
-                    "endOffset": 13211
+                    "endOffset": 13142
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 195,
                         "startColumn": 4,
@@ -1156,14 +1137,14 @@
             },
             {
                 "to": {
-                    "startLine": 173,
+                    "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 13216,
+                    "startOffset": 13147,
                     "endColumn": 122,
-                    "endOffset": 13334
+                    "endOffset": 13265
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1175,14 +1156,14 @@
             },
             {
                 "to": {
-                    "startLine": 174,
+                    "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 13339,
+                    "startOffset": 13270,
                     "endColumn": 128,
-                    "endOffset": 13463
+                    "endOffset": 13394
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 197,
                         "startColumn": 4,
@@ -1194,14 +1175,14 @@
             },
             {
                 "to": {
-                    "startLine": 175,
+                    "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 13468,
+                    "startOffset": 13399,
                     "endColumn": 116,
-                    "endOffset": 13580
+                    "endOffset": 13511
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 198,
                         "startColumn": 4,
@@ -1213,15 +1194,15 @@
             },
             {
                 "to": {
-                    "startLine": 176,
+                    "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 13585,
-                    "endLine": 178,
+                    "startOffset": 13516,
+                    "endLine": 177,
                     "endColumn": 12,
-                    "endOffset": 13757
+                    "endOffset": 13688
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 199,
                         "startColumn": 4,
@@ -1234,14 +1215,14 @@
             },
             {
                 "to": {
-                    "startLine": 179,
+                    "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 13762,
+                    "startOffset": 13693,
                     "endColumn": 98,
-                    "endOffset": 13856
+                    "endOffset": 13787
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1253,15 +1234,15 @@
             },
             {
                 "to": {
-                    "startLine": 180,
+                    "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 13861,
-                    "endLine": 181,
+                    "startOffset": 13792,
+                    "endLine": 180,
                     "endColumn": 12,
-                    "endOffset": 13991
+                    "endOffset": 13922
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -1274,15 +1255,15 @@
             },
             {
                 "to": {
-                    "startLine": 182,
+                    "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 13996,
-                    "endLine": 183,
+                    "startOffset": 13927,
+                    "endLine": 182,
                     "endColumn": 12,
-                    "endOffset": 14134
+                    "endOffset": 14065
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1295,15 +1276,15 @@
             },
             {
                 "to": {
-                    "startLine": 184,
+                    "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 14139,
-                    "endLine": 185,
+                    "startOffset": 14070,
+                    "endLine": 184,
                     "endColumn": 12,
-                    "endOffset": 14269
+                    "endOffset": 14200
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1316,15 +1297,15 @@
             },
             {
                 "to": {
-                    "startLine": 186,
+                    "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 14274,
-                    "endLine": 187,
+                    "startOffset": 14205,
+                    "endLine": 186,
                     "endColumn": 12,
-                    "endOffset": 14388
+                    "endOffset": 14319
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 209,
                         "startColumn": 4,
@@ -1337,15 +1318,15 @@
             },
             {
                 "to": {
-                    "startLine": 188,
+                    "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 14393,
-                    "endLine": 191,
+                    "startOffset": 14324,
+                    "endLine": 190,
                     "endColumn": 12,
-                    "endOffset": 14589
+                    "endOffset": 14520
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -1358,15 +1339,15 @@
             },
             {
                 "to": {
-                    "startLine": 192,
+                    "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 14594,
-                    "endLine": 193,
+                    "startOffset": 14525,
+                    "endLine": 192,
                     "endColumn": 12,
-                    "endOffset": 14708
+                    "endOffset": 14639
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -1379,14 +1360,14 @@
             },
             {
                 "to": {
-                    "startLine": 194,
+                    "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 14713,
+                    "startOffset": 14644,
                     "endColumn": 92,
-                    "endOffset": 14801
+                    "endOffset": 14732
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -1398,14 +1379,14 @@
             },
             {
                 "to": {
-                    "startLine": 195,
+                    "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 14806,
+                    "startOffset": 14737,
                     "endColumn": 110,
-                    "endOffset": 14912
+                    "endOffset": 14843
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -1417,14 +1398,14 @@
             },
             {
                 "to": {
-                    "startLine": 196,
+                    "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 14917,
+                    "startOffset": 14848,
                     "endColumn": 55,
-                    "endOffset": 14968
+                    "endOffset": 14899
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -1436,15 +1417,15 @@
             },
             {
                 "to": {
-                    "startLine": 197,
+                    "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 14973,
-                    "endLine": 198,
+                    "startOffset": 14904,
+                    "endLine": 197,
                     "endColumn": 12,
-                    "endOffset": 15075
+                    "endOffset": 15006
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
@@ -1457,15 +1438,15 @@
             },
             {
                 "to": {
-                    "startLine": 199,
+                    "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 15080,
-                    "endLine": 202,
+                    "startOffset": 15011,
+                    "endLine": 201,
                     "endColumn": 12,
-                    "endOffset": 15270
+                    "endOffset": 15201
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 222,
                         "startColumn": 4,
@@ -1478,15 +1459,15 @@
             },
             {
                 "to": {
-                    "startLine": 203,
+                    "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 15275,
-                    "endLine": 204,
+                    "startOffset": 15206,
+                    "endLine": 203,
                     "endColumn": 12,
-                    "endOffset": 15381
+                    "endOffset": 15312
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 226,
                         "startColumn": 4,
@@ -1499,15 +1480,15 @@
             },
             {
                 "to": {
-                    "startLine": 205,
+                    "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 15386,
-                    "endLine": 206,
+                    "startOffset": 15317,
+                    "endLine": 205,
                     "endColumn": 12,
-                    "endOffset": 15514
+                    "endOffset": 15445
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 228,
                         "startColumn": 4,
@@ -1520,14 +1501,14 @@
             },
             {
                 "to": {
-                    "startLine": 207,
+                    "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 15519,
+                    "startOffset": 15450,
                     "endColumn": 94,
-                    "endOffset": 15609
+                    "endOffset": 15540
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
@@ -1539,14 +1520,14 @@
             },
             {
                 "to": {
-                    "startLine": 208,
+                    "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 15614,
+                    "startOffset": 15545,
                     "endColumn": 90,
-                    "endOffset": 15700
+                    "endOffset": 15631
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -1558,14 +1539,14 @@
             },
             {
                 "to": {
-                    "startLine": 209,
+                    "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 15705,
+                    "startOffset": 15636,
                     "endColumn": 90,
-                    "endOffset": 15791
+                    "endOffset": 15722
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 232,
                         "startColumn": 4,
@@ -1577,14 +1558,14 @@
             },
             {
                 "to": {
-                    "startLine": 210,
+                    "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 15796,
+                    "startOffset": 15727,
                     "endColumn": 116,
-                    "endOffset": 15908
+                    "endOffset": 15839
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 233,
                         "startColumn": 4,
@@ -1596,15 +1577,15 @@
             },
             {
                 "to": {
-                    "startLine": 211,
+                    "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 15913,
-                    "endLine": 212,
+                    "startOffset": 15844,
+                    "endLine": 211,
                     "endColumn": 12,
-                    "endOffset": 16047
+                    "endOffset": 15978
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 234,
                         "startColumn": 4,
@@ -1617,15 +1598,15 @@
             },
             {
                 "to": {
-                    "startLine": 213,
+                    "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 16052,
-                    "endLine": 219,
+                    "startOffset": 15983,
+                    "endLine": 218,
                     "endColumn": 12,
-                    "endOffset": 16400
+                    "endOffset": 16331
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 238,
                         "startColumn": 4,
@@ -1638,15 +1619,15 @@
             },
             {
                 "to": {
-                    "startLine": 220,
+                    "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 16405,
-                    "endLine": 226,
+                    "startOffset": 16336,
+                    "endLine": 225,
                     "endColumn": 12,
-                    "endOffset": 16765
+                    "endOffset": 16696
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 245,
                         "startColumn": 4,
@@ -1659,15 +1640,15 @@
             },
             {
                 "to": {
-                    "startLine": 227,
+                    "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 16770,
-                    "endLine": 236,
+                    "startOffset": 16701,
+                    "endLine": 235,
                     "endColumn": 12,
-                    "endOffset": 17445
+                    "endOffset": 17376
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -1680,14 +1661,14 @@
             },
             {
                 "to": {
-                    "startLine": 237,
+                    "startLine": 236,
                     "startColumn": 4,
-                    "startOffset": 17450,
+                    "startOffset": 17381,
                     "endColumn": 56,
-                    "endOffset": 17502
+                    "endOffset": 17433
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 262,
                         "startColumn": 4,
@@ -1699,14 +1680,14 @@
             },
             {
                 "to": {
-                    "startLine": 238,
+                    "startLine": 237,
                     "startColumn": 4,
-                    "startOffset": 17507,
+                    "startOffset": 17438,
                     "endColumn": 57,
-                    "endOffset": 17560
+                    "endOffset": 17491
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 263,
                         "startColumn": 4,

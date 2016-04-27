@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\res\\merged\\debug\\values-v18\\values-v18.xml",
+        "outputFile": "I:\\MessManager\\app\\build\\intermediates\\res\\merged\\debug\\values-v18\\values-v18.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohit\\Downloads\\Compressed\\ParseLoginTutorial1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v18\\values-v18.xml",
+                    "file": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v18\\values-v18.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
