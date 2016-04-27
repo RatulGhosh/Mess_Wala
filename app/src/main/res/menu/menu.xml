@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/complaint"
+        android:title="Complaint"
+        />
+
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        />
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/exit"
+        android:title="Exit"
+        />
+
+</menu>

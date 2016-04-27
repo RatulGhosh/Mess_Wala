@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="Enter e-mail"
+        android:inputType="textEmailAddress"
+        android:id="@+id/editText"
+        />
+
+    <EditText
+        android:layout_width="362dp"
+        android:hint="Enter Password"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/editText2" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:background="@drawable/button"
+        android:text="Login"
+        android:id="@+id/login"
+        android:textColor="@android:color/white"
+        android:layout_gravity="center"
+        android:textSize="18dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register Now"
+        android:id="@+id/reg"
+        android:layout_gravity="center"
+        android:textColor="#7387fb"
+        android:textSize="18dp"/>
+</LinearLayout>

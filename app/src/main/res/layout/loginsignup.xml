@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#fff"
+    android:padding="10dip" >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:padding="15dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="Enter Name"
+            android:textColor="#000"
+            android:ems="10"
+            android:id="@+id/name"
+            android:layout_gravity="center_horizontal"
+            android:layout_alignBottom="@+id/mobile"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textColor="#000"
+            android:id="@+id/enrollment"
+            android:hint="Enter Enrollment Number"
+            android:layout_gravity="center_horizontal"
+            android:layout_below="@+id/name"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textColor="#000"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:hint="Enter E-mail Address"
+            android:id="@+id/e_mail"
+            android:layout_below="@+id/enrollment"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:padding="15dp"
+            android:inputType="textPassword"
+            android:hint="Enter Password"
+            android:ems="10"
+            android:id="@+id/pass"
+            android:layout_below="@+id/e_mail"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textColor="#000"
+            android:inputType="textPassword"
+            android:hint="Confirm Password"
+            android:ems="10"
+            android:id="@+id/con_pass"
+            android:layout_gravity="center_horizontal"
+            android:layout_below="@+id/pass"
+            />
+
+
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:textColor="#000"
+        android:text="+91"
+        android:id="@+id/textView" />
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberSigned"
+        android:textColor="#000"
+        android:padding="15dp"
+        android:hint="Mobile Number"
+        android:ems="10"
+        android:id="@+id/mobile"
+        android:layout_marginLeft="5dp"
+        android:layout_above="@+id/hostel"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</LinearLayout>
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:padding="15dp"
+            android:id="@+id/hostel"
+            android:layout_above="@+id/room" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberSigned"
+            android:padding="15dp"
+            android:textColor="#000"
+            android:hint="Room No."
+            android:ems="10"
+            android:id="@+id/room"
+            android:layout_above="@+id/register_button"
+            />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Register"
+            android:background="@drawable/button"
+            android:id="@+id/register_button"
+            android:layout_gravity="center_horizontal"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+
+</LinearLayout>

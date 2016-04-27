@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/day"
+        android:textStyle="bold"
+        android:text="Day"
+        android:layout_gravity="center"
+        android:textSize="25dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/breakfast"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:text="TextView"
+        android:layout_below="@+id/day"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:textSize="16dp"
+        android:id="@+id/lunch"
+        android:paddingTop="5dp"
+        android:layout_below="@+id/breakfast"
+        android:layout_alignLeft="@+id/breakfast"
+        android:layout_alignStart="@+id/breakfast" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:textSize="16dp"
+        android:id="@+id/dinner"
+        android:paddingTop="5dp"
+        android:layout_below="@+id/lunch"
+        android:layout_alignLeft="@+id/lunch"
+        android:layout_alignStart="@+id/lunch" />
+
+</RelativeLayout>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@android:color/black"
+    android:padding="10dip" >
+
+        
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_marginTop="35dp"
+            android:padding="15dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="Enter Name"
+            android:textColor="#FFF"
+            android:ems="10"
+            android:id="@+id/name"
+            android:layout_gravity="center_horizontal" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textColor="#FFF"
+            android:id="@+id/enrollment"
+            android:hint="Enter Enrollment Number"
+            android:layout_gravity="center_horizontal" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textColor="#FFF"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:hint="Enter E-mail Address"
+            android:id="@+id/e_mail" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:padding="15dp"
+            android:inputType="textPassword"
+            android:hint="Enter Password"
+            android:ems="10"
+            android:id="@+id/pass" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textColor="#FFF"
+            android:inputType="textPassword"
+            android:hint="Confirm Password"
+            android:ems="10"
+            android:id="@+id/con_pass"
+            android:layout_gravity="center_horizontal" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberSigned"
+            android:textColor="#FFF"
+            android:padding="15dp"
+            android:hint="Mobile Number"
+            android:ems="10"
+            android:id="@+id/mobile" />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:padding="15dp"
+            android:id="@+id/hostel" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberSigned"
+            android:padding="15dp"
+            android:textColor="#FFF"
+            android:hint="Room No."
+            android:ems="10"
+            android:id="@+id/room" />
+
+        <Button
+            android:layout_width="180dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="5dp"
+            android:text="Register"
+            android:background="@drawable/button"
+            android:id="@+id/register_button"
+            android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
