@@ -6,12 +6,9 @@ import android.os.Bundle;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.widget.ListView;
-import android.widget.TextView;
-import android.widget.Toast;
 
 import com.parse.ParseUser;
 
-import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
@@ -113,6 +110,13 @@ public class Menu extends Activity {
                 ParseUser.logOut();
                 Intent intent1=new Intent(Menu.this,Login.class);
                 startActivity(intent1);
+                finish();
+                return true;
+
+            case R.id.developers:
+                ParseUser.logOut();
+                Intent intent2=new Intent(Menu.this,Developer.class);
+                startActivity(intent2);
                 finish();
                 return true;
 

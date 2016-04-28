@@ -1,19 +1,15 @@
 package com.androidbegin.parselogintutorial;
 
-import com.parse.ParseObject;
-import com.parse.ParseUser;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import org.w3c.dom.Text;
+import com.parse.ParseUser;
+
 
 public class Welcome extends Activity {
 	
@@ -37,6 +33,7 @@ public class Welcome extends Activity {
 		TextView email=(TextView)findViewById(R.id.e_mail);
 		TextView mobile_no=(TextView)findViewById(R.id.mobile);
 		TextView  room=(TextView)findViewById(R.id.room);
+		TextView  noti=(TextView)findViewById(R.id.noti);
 		menuButtton=(ImageButton)findViewById(R.id.menu);
 
 		email.setText("E-mail : "+mail);
@@ -46,6 +43,9 @@ public class Welcome extends Activity {
 		h.setText("Hostel : " + hostel);
 		room.setText("Room No : "+room_no);
 		mobile_no.setText("Mobile No : "+mobile);
+        noti.setText("Notification : "+CustomPushNotification.message_noti);
+
+		//Toast.makeText(this,CustomPushNotification.message_noti,Toast.LENGTH_LONG).show();
 
 		menuButtton.setOnClickListener(new OnClickListener() {
 			@Override

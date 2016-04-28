@@ -38,7 +38,7 @@ public class parse_noti {
 
         //if (isAppIsInBackground(mContext)) {
         // notification icon
-        int icon = R.drawable.ic_launcher;
+        int icon = R.drawable.logo;
 
         final int mNotificationId = 500;
 

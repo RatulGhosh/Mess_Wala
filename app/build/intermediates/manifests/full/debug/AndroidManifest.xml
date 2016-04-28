@@ -21,6 +21,10 @@
 
     <uses-permission android:name="com.androidbegin.parselogintutorial.permission.C2D_MESSAGE" />
 
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
         android:name="com.androidbegin.parselogintutorial.ParseApplication"
         android:icon="@drawable/logo"
@@ -46,7 +50,7 @@
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
                 <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
 
-                <category android:name="com.app.aparoksha.apro16" />
+                <category android:name="com.androidbegin.parselogintutorial" />
             </intent-filter>
         </receiver>
 
@@ -60,13 +64,20 @@
             </intent-filter>
         </activity>
         <activity android:name="com.androidbegin.parselogintutorial.Register" />
-        <activity android:name="com.androidbegin.parselogintutorial.Welcome" />
+        <activity android:name="com.androidbegin.parselogintutorial.Welcome" >
+            <intent-filter>
+                <action android:name="com.androidbegin.parselogintutorial.WEL" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
         <activity android:name="com.androidbegin.parselogintutorial.Login" />
         <activity
             android:name="com.androidbegin.parselogintutorial.Menu"
             android:theme="@android:style/Theme.Holo.Light" />
         <activity android:name="com.androidbegin.parselogintutorial.Complain" />
         <activity android:name="com.androidbegin.parselogintutorial.LoginOpt" />
+        <activity android:name="com.androidbegin.parselogintutorial.Developer" />
     </application>
 
 </manifest>

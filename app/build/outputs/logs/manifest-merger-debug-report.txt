@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:2:1-77:12
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:2:1-83:12
 	package
 		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:3:5-50
 		INJECTED from I:\MessManager\app\src\main\AndroidManifest.xml
@@ -28,142 +28,168 @@ MERGED from [com.android.support:support-v4:23.1.1] I:\MessManager\app\build\int
 		INJECTED from I:\MessManager\app\src\main\AndroidManifest.xml
 		INJECTED from I:\MessManager\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:12:5-67
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:12:22-64
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:11:22-64
 uses-permission#android.permission.VIBRATE
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:13:5-66
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:12:5-66
 	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:13:22-63
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:12:22-63
 uses-permission#android.permission.WAKE_LOCK
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:14:5-68
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:13:5-68
 	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:14:22-65
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:13:22-65
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:15:5-71
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:14:5-71
 	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:15:22-68
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:14:22-68
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:16:5-82
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:15:5-82
 	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:16:22-79
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:15:22-79
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:17:5-79
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:17:22-76
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:16:22-76
 permission#com.androidbegin.parselogintutorial.permission.C2D_MESSAGE
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:21:5-23:47
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:18:5-20:47
 	android:protectionLevel
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:23:9-44
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:20:9-44
 	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:22:9-82
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:19:9-82
 uses-permission#com.androidbegin.parselogintutorial.permission.C2D_MESSAGE
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:25:5-98
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:22:5-98
 	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:25:22-95
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:22:22-95
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:24:5-89
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:24:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:25:5-83
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:25:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:26:5-88
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:26:30-85
 application
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:30:5-75:19
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:28:5-81:19
 MERGED from [com.android.support:appcompat-v7:23.1.1] I:\MessManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] I:\MessManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:33:9-41
-	android:icon
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:32:9-38
-	android:theme
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:34:9-79
-	android:name
 		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:31:9-41
-service#com.parse.PushService
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:35:9-57
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:35:18-54
-receiver#com.androidbegin.parselogintutorial.CustomPushNotification
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:37:9-47:20
-	android:exported
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:39:13-37
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:38:13-51
-intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+com.parse.push.intent.DELETE+com.parse.push.intent.OPEN+com.parse.push.intent.RECEIVE
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:40:13-46:29
-action#android.intent.action.BOOT_COMPLETED
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:41:17-79
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:41:25-76
-action#android.intent.action.USER_PRESENT
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:42:17-77
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:42:25-74
-action#com.parse.push.intent.RECEIVE
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:43:17-72
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:43:25-69
-action#com.parse.push.intent.DELETE
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:44:17-71
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:44:25-68
-action#com.parse.push.intent.OPEN
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:45:17-69
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:45:25-66
-receiver#com.parse.GcmBroadcastReceiver
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:48:9-57:20
-	android:permission
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:50:13-73
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:49:13-58
-intent-filter#com.app.aparoksha.apro16+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:51:13-56:29
-action#com.google.android.c2dm.intent.RECEIVE
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:52:17-81
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:52:25-78
-action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:53:17-86
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:53:25-83
-category#com.app.aparoksha.apro16
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:55:17-69
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:55:27-66
-activity#com.androidbegin.parselogintutorial.MainActivity
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:58:9-66:20
-	android:label
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:60:13-45
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:59:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:61:13-65:29
-action#android.intent.action.MAIN
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:62:17-69
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:62:25-66
-category#android.intent.category.LAUNCHER
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:64:17-77
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:64:27-74
-activity#com.androidbegin.parselogintutorial.Register
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:67:9-46
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:67:19-43
-activity#com.androidbegin.parselogintutorial.Welcome
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:68:9-45
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:68:19-42
-activity#com.androidbegin.parselogintutorial.Login
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:69:9-43
-	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:69:19-40
-activity#com.androidbegin.parselogintutorial.Menu
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:70:9-72:63
+	android:icon
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:30:9-38
 	android:theme
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:72:13-60
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:32:9-79
 	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:71:13-33
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:29:9-41
+service#com.parse.PushService
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:33:9-57
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:33:18-54
+receiver#com.androidbegin.parselogintutorial.CustomPushNotification
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:35:9-45:20
+	android:exported
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:36:13-51
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+com.parse.push.intent.DELETE+com.parse.push.intent.OPEN+com.parse.push.intent.RECEIVE
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:38:13-44:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:39:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:40:25-74
+action#com.parse.push.intent.RECEIVE
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:41:17-72
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:41:25-69
+action#com.parse.push.intent.DELETE
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:42:17-71
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:42:25-68
+action#com.parse.push.intent.OPEN
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:43:25-66
+receiver#com.parse.GcmBroadcastReceiver
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:46:9-55:20
+	android:permission
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:48:13-73
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:47:13-58
+intent-filter#com.androidbegin.parselogintutorial+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:49:13-54:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:50:17-81
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:50:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:51:17-86
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:51:25-83
+category#com.androidbegin.parselogintutorial
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:53:17-80
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:53:27-77
+activity#com.androidbegin.parselogintutorial.MainActivity
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:57:9-65:20
+	android:label
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:59:13-45
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:58:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:60:13-64:29
+action#android.intent.action.MAIN
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:61:17-69
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:61:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:63:27-74
+activity#com.androidbegin.parselogintutorial.Register
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:66:9-46
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:66:19-43
+activity#com.androidbegin.parselogintutorial.Welcome
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:67:9-73:20
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:67:19-42
+intent-filter#android.intent.category.DEFAULT+com.androidbegin.parselogintutorial.WEL
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:68:13-72:29
+action#com.androidbegin.parselogintutorial.WEL
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:69:25-79
+category#android.intent.category.DEFAULT
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:71:17-76
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:71:27-73
+activity#com.androidbegin.parselogintutorial.Login
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:74:9-43
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:74:19-40
+activity#com.androidbegin.parselogintutorial.Menu
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:75:9-77:63
+	android:theme
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:77:13-60
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:76:13-33
 activity#com.androidbegin.parselogintutorial.Complain
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:73:9-46
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:78:9-46
 	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:73:19-43
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:78:19-43
 activity#com.androidbegin.parselogintutorial.LoginOpt
-ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:74:9-55
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:79:9-46
 	android:name
-		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:74:19-43
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:79:19-43
+activity#com.androidbegin.parselogintutorial.Developer
+ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:80:9-56
+	android:name
+		ADDED from I:\MessManager\app\src\main\AndroidManifest.xml:80:19-44

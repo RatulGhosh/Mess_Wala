@@ -15,7 +15,10 @@ import org.json.JSONObject;
  * Created by Ratul on 3/29/2016.
  */
 
+
 public class CustomPushNotification extends ParsePushBroadcastReceiver {
+
+    public static String message_noti = "No notifications";
     private final String TAG = CustomPushNotification.class.getSimpleName();
 
     private parse_noti notificationUtils;
@@ -69,6 +72,7 @@ public class CustomPushNotification extends ParsePushBroadcastReceiver {
             JSONObject data = json.getJSONObject("data");
             String title = data.getString("title");
             String message = data.getString("message");
+            set_noti_message(message);
             String intent = data.getString("intent");
             //save in DB
             //DBNotif entry = new DBNotif(context);
@@ -85,6 +89,10 @@ public class CustomPushNotification extends ParsePushBroadcastReceiver {
         } catch (JSONException e) {
             Log.e(TAG, "Push message json exception: " + e.getMessage());
         }
+    }
+    public void set_noti_message(String message){
+
+        message_noti = message;
     }
 
 

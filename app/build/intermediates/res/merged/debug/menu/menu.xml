@@ -9,6 +9,9 @@
         android:title="Logout"
         />
     <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/developers"
+        android:title="Developers"
+        />
     <item android:id="@+id/exit"
         android:title="Exit"
         />

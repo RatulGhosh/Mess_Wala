@@ -1,5 +1,9 @@
 [
     {
+        "merged": "I:\\MessManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_developer.xml",
+        "source": "I:\\MessManager\\app\\src\\main\\res\\layout\\activity_developer.xml"
+    },
+    {
         "merged": "I:\\MessManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
     },
