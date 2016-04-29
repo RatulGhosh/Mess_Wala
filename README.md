@@ -1,8 +1,7 @@
 #<img src = "https://raw.githubusercontent.com/RatulGhosh/Mess_Wala/master/app/src/main/res/drawable-hdpi/logo.png" width="40" /> Mess Wala
 
-Here's a medium to get a step closer to Aparoksha as we present you an interesting android app where you can look for any kind of details you require. Here you'll find info about all the events categorized according to their field and day of occurrence as well. You can also set reminders for various events as per your need. You will also receive customised notifications and stay informed about all the events.
+Here's a medium to get the complete information about the mess as we present you an interesting android app where you can look for any kind of details you require. Here you'll find info about all the menus categorized according to diffent days of the week for each hostel. You can also set reminders and send complants and feedback directly to the mess committee. You will also receive customised notifications and stay informed about all the details like meetings, change in menu etc.
 
-As Far as literal meaning is concerned, ‘Aparoksha’ is a Sanskrit adjective that highlights perception. It refers to the intuitive expertise - one of the seven stages of knowledge. Apparently, Technology is a direct consequence of imagination, perception. Where Technology fostered several miraculous breakthrough in various influential zones of society, there Imagination has brought mankind through the Dark Ages to its present state of civilization. Whether it is Kekule who dreamt about a benzene structure or wright brothers who invented aeroplane, every paragon is beneficence of imagination of an erudite. A strong imagination has the power to mould a pile of junk in a masterpiece.
 
 
 #### Download now on Google Play Store!
