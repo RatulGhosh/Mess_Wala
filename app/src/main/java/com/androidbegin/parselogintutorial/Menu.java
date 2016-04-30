@@ -3,6 +3,7 @@ package com.androidbegin.parselogintutorial;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.provider.AlarmClock;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.widget.ListView;
@@ -114,11 +115,24 @@ public class Menu extends Activity {
                 return true;
 
             case R.id.developers:
-                ParseUser.logOut();
+
                 Intent intent2=new Intent(Menu.this,Developer.class);
                 startActivity(intent2);
-                finish();
+
                 return true;
+            case R.id.alarm:
+
+                Intent openClockIntent = new Intent(AlarmClock.ACTION_SET_ALARM);
+                openClockIntent.putExtra(AlarmClock.EXTRA_MESSAGE, "Time to have breakfast");
+                startActivity(openClockIntent);
+
+                /*Intent it = new Intent(Menu.this,Alarm.class);
+                it.putExtra("event","Time to have Breakfast");
+                startActivity(it);*/
+
+
+                return true;
+
 
             case R.id.exit:
                 finish();

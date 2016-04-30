@@ -12,6 +12,7 @@
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
@@ -78,6 +79,7 @@
         <activity android:name="com.androidbegin.parselogintutorial.Complain" />
         <activity android:name="com.androidbegin.parselogintutorial.LoginOpt" />
         <activity android:name="com.androidbegin.parselogintutorial.Developer" />
+        <activity android:name="com.androidbegin.parselogintutorial.Alarm" />
     </application>
 
 </manifest>

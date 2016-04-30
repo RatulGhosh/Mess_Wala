@@ -40,12 +40,12 @@
         "source": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "I:\\MessManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "I:\\MessManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
         "source": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "I:\\MessManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "I:\\MessManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
@@ -106,6 +106,10 @@
     {
         "merged": "I:\\MessManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
         "source": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "I:\\MessManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rsz_ac.jpg",
+        "source": "I:\\MessManager\\app\\src\\main\\res\\drawable-hdpi\\rsz_ac.jpg"
     },
     {
         "merged": "I:\\MessManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button.png",
@@ -190,5 +194,9 @@
     {
         "merged": "I:\\MessManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
         "source": "I:\\MessManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "I:\\MessManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rsz_ar.jpg",
+        "source": "I:\\MessManager\\app\\src\\main\\res\\drawable-hdpi\\rsz_ar.jpg"
     }
 ]
