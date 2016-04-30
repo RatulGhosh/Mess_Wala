@@ -1,6 +1,6 @@
 #<img src = "https://raw.githubusercontent.com/RatulGhosh/Mess_Wala/master/app/src/main/res/drawable-hdpi/logo.png" width="40" /> Mess Wala
 
-Here's a medium to get the complete information about the mess as we present you an interesting android app where you can look for any kind of details you require. Here you'll find info about all the menus categorized according to diffent days of the week for each hostel. You can also set reminders and send complants and feedback directly to the mess committee. You will also receive customised notifications and stay informed about all the details like meetings, change in menu etc.
+Here's a medium to get the complete information about the mess as we present you an interesting android app where you can look for any kind of details you require. Here you'll find info about all the menus categorized according to different days of the week for each hostel. You can also set reminders and send complaints and feedbacks directly to the mess committee. You will also receive customised notifications and stay informed about all the details like meetings, change in menu etc.
 
 
 
