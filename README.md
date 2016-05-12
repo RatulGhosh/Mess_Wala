@@ -5,7 +5,7 @@ Here's a medium to get the complete information about the mess as we present you
 
 
 #### Download now on Google Play Store!
-Link: https://play.google.com/store/apps/details?id=com.blue.messwala&hl=en
+[Get it here](https://play.google.com/store/apps/details?id=com.blue.messwala&hl=en)
 
 ### Screenshot
 
